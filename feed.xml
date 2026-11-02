@@ -5,7 +5,7 @@
     <link>https://arhiiv.err.ee/audio/seeria/rahva-oma-kaitse?limit=500&amp;sort=old</link>
     <description>Isiklik mugavusvoog ERR arhiivis avalikult kuulatavatele Rahva oma kaitse saadetele aastatest 2005–2009. Audio striimitakse otse ERR serveritest.</description>
     <language>et</language>
-    <lastBuildDate>Mon, 19 Oct 2026 08:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 10:58:14 +0000</lastBuildDate>
     <itunes:author>ERR</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Comedy" />
@@ -2357,18 +2357,6 @@ R2 eetris 20.05.2006. R2CD-214</description>
     </item>
     <item>
       <title>Rahva oma kaitse — 20. mai 2006</title>
-      <link>https://arhiiv.err.ee/audio/vaata/rahva-oma-kaitse-eurovisioon-2006-finaal-2-3</link>
-      <guid isPermaLink="false">err-rokk-310632</guid>
-      <pubDate>Sat, 20 May 2006 12:00:00 +0000</pubDate>
-      <description>Eurovisioon 2006. Ateena, finaal. 2/3 
-Kommenteerivad Mart Juur ja Andrus Kivirähk.
-R2 2etris 20.05.2006. R2CD-215</description>
-      <enclosure url="https://vod.err.ee/hls/arhiiv/AUDIO/a_167408_RMARHIIV.m4a/master.m3u8" length="0" type="audio/mp4" />
-      <itunes:duration>01:08:04</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Rahva oma kaitse — 20. mai 2006</title>
       <link>https://arhiiv.err.ee/audio/vaata/rahva-oma-kaitse-rahva-oma-kaitse-eurovisioon-2006-finaal-3-3</link>
       <guid isPermaLink="false">err-rokk-310630</guid>
       <pubDate>Sat, 20 May 2006 12:00:00 +0000</pubDate>
@@ -2377,6 +2365,18 @@ Kommenteerivad Mart Juur ja Andrus Kivirähk.
 R2 eetris 20.05.2006. R2CD-216</description>
       <enclosure url="https://vod.err.ee/hls/arhiiv/AUDIO/a_167407_RMARHIIV.m4a/master.m3u8" length="0" type="audio/mp4" />
       <itunes:duration>00:50:37</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rahva oma kaitse — 20. mai 2006</title>
+      <link>https://arhiiv.err.ee/audio/vaata/rahva-oma-kaitse-eurovisioon-2006-finaal-2-3</link>
+      <guid isPermaLink="false">err-rokk-310632</guid>
+      <pubDate>Sat, 20 May 2006 12:00:00 +0000</pubDate>
+      <description>Eurovisioon 2006. Ateena, finaal. 2/3 
+Kommenteerivad Mart Juur ja Andrus Kivirähk.
+R2 2etris 20.05.2006. R2CD-215</description>
+      <enclosure url="https://vod.err.ee/hls/arhiiv/AUDIO/a_167408_RMARHIIV.m4a/master.m3u8" length="0" type="audio/mp4" />
+      <itunes:duration>01:08:04</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
     <item>
